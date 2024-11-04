@@ -1,10 +1,13 @@
 body{
     background-color:rgb(224, 255, 255);
-    color:rgb(167, 143, 185);
+    color:rgb (3, 91, 255, o.267);
     margin: 0px;
 }
 
 
 hearder{
-    border-bottom:solid 2px rgb(253,5,170);
+    border-bottom:solid 2px rgb(3, 91, 255, 0.267);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(3, 91, 255, 0.267);
 }
